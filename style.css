@@ -140,6 +140,10 @@ header {
     display: none; /* Hide regular menu */
   }
 
+  body {
+    overflow-x: hidden;
+  }
+
   #text {
     font-size: 30p;
   }
